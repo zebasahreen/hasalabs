@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Zeba &#8211; Hasa Labs</title>
-	<atom:link href="https://www.hasalabs.com/author/zeba/feed/" rel="self" type="application/rss+xml" />
+	<title>Post &#8211; Hasa Labs</title>
+	<atom:link href="https://www.hasalabs.com/category/post/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.hasalabs.com/</link>
 	<description>Ads-Free Islamic Apps</description>
 	<lastBuildDate>Fri, 03 May 2024 22:41:53 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://www.hasalabs.com/wp-content/uploads/2023/04/hasalabsicon-150x150.png</url>
-	<title>Zeba &#8211; Hasa Labs</title>
+	<title>Post &#8211; Hasa Labs</title>
 	<link>https://www.hasalabs.com/</link>
 	<width>32</width>
 	<height>32</height>
@@ -87,29 +87,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.hasalabs.com/three-key-areas-to-become-a-better-muslim-worship-knowledge-and-service/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Salah Tracker &#8211; Prayer Times</title>
-		<link>https://www.hasalabs.com/salah-tracker-prayer-times/</link>
-					<comments>https://www.hasalabs.com/salah-tracker-prayer-times/#respond</comments>
-		
-		<dc:creator><![CDATA[Zeba]]></dc:creator>
-		<pubDate>Fri, 28 Apr 2023 17:54:31 +0000</pubDate>
-				<category><![CDATA[App]]></category>
-		<guid isPermaLink="false">https://www.hasalabs.com/?p=316</guid>
-
-					<description><![CDATA[Salah tracker is a new app built with features that can help you make praying salah a habit. In Sha Allah.It is based on the productivity approach where you need to get a calendar and mark the date every day &#8230; ]]></description>
-										<content:encoded><![CDATA[
-<p>Salah tracker is a new app built with features that can help you make praying salah a habit. In Sha Allah.<br>It is based on the productivity approach where you need to get a calendar and mark the date every day when you complete a task and create streaks. You need to make sure that streaks don&#8217;t break and challenge yourself to create the highest continuous streak.</p>
-
-
-<!-- WP-Appbox (Version: 4.4.12 // Store: googleplay // ID: com.zainabsolutions.salah_tracker) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.zainabsolutions.salah_tracker" title="Salah Tracker - Prayer Times">Salah Tracker - Prayer Times (Free, Google Play) →</a></p><!-- /WP-Appbox -->
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.hasalabs.com/salah-tracker-prayer-times/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
