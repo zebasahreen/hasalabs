@@ -14,7 +14,8 @@
       "Bash(git -C \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\" add home/index.html our-free-islamic-apps/index.html)",
       "Bash(git -C 'C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs' commit -m ' *)",
       "Bash(git *)",
-      "Bash(echo \"exit: $?\")"
+      "Bash(echo \"exit: $?\")",
+      "Bash(xargs sed -i 's|<a href=\"/\" class=\"navbar-brand\">\\\\n.*Hasa Labs|<a href=\"/\" class=\"navbar-brand\">|g')"
     ]
   }
 }
