@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "PowerShell(& \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\\\\_replace.ps1\")",
+      "PowerShell(& \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\\\\_replace2.ps1\")",
+      "PowerShell(& \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\\\\_replace3.ps1\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "WebFetch(domain:play.google.com)",
+      "Bash(git -C \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\" status)",
+      "Bash(git -C \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\" diff)",
+      "Bash(git -C \"C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs\" add home/index.html our-free-islamic-apps/index.html)",
+      "Bash(git -C 'C:\\\\Users\\\\SyedHussaini\\\\Documents\\\\Claude Project\\\\hasalabs' commit -m ' *)",
+      "Bash(git *)",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}
