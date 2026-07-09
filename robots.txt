@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /plugins/
+Disallow: /themes/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /category/
+Disallow: /author/
+Disallow: /home/
+Disallow: /app-landing-page/
+Disallow: /salah-tracker-app/
+Disallow: /newsletter/
+Disallow: /*/feed/
+
+Sitemap: https://www.hasalabs.com/sitemap.xml
